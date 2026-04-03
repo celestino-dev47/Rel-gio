@@ -1,0 +1,10 @@
+ body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: #001d3d;
+            color: #fff;
+            font-family: 'Courier New', monospace;
+            font-size: 4rem;
+        
